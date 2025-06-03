@@ -103,3 +103,11 @@ Review your metrics, trends, and performance instantly.
 
 👨‍🎓 Project Purpose
 This project was built as part of a practical assignment to simulate real-world trading performance analysis using spreadsheet tools. It demonstrates how data-driven dashboards can help traders become more consistent and self-aware in their strategies.
+
+# Screenshots
+
+![Screenshot 2025-06-03 220527](https://github.com/user-attachments/assets/ece10235-e374-459a-b614-c15cbe9bc26c)
+
+![Screenshot 2025-06-03 220606](https://github.com/user-attachments/assets/d09a2570-b868-4db4-913d-b468b6ea515e)
+
+
