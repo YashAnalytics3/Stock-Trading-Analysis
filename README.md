@@ -1,7 +1,7 @@
 # 📊 Stock Trading Analysis Dashboard
 
 Project File Link:
-Google Sheets(Drive Link): https://docs.google.com/spreadsheets/d/1Estpu8htCD99sykvExygWvfLdvgF83LG_avw2gmIdcQ/edit?usp=drive_link
+Google Sheets(Drive Link): https://docs.google.com/spreadsheets/d/1Estpu8htCD99sykvExygWvfLdvgF83LG_avw2gmIdcQ/edit?usp=sharing
 
 🧾 Project Overview
 This project is a dynamic stock trading analysis dashboard built using Google Sheets. It is designed for individual traders to analyze, monitor, and learn from their trading performance over time. The dashboard connects to a trading journal where trades are logged and automatically updates to reflect new entries—providing real-time insights into performance, risk, patterns, and behaviors.
