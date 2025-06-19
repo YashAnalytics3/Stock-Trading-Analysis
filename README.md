@@ -110,8 +110,7 @@ This project was built as part of a practical assignment to simulate real-world 
 
 # Screenshots
 
-![Screenshot 2025-06-03 220527](https://github.com/user-attachments/assets/ece10235-e374-459a-b614-c15cbe9bc26c)
+![Screenshot 2025-06-19 221459](https://github.com/user-attachments/assets/d21637f6-3dac-4de7-852f-e73f06be10ff)
 
-![Screenshot 2025-06-03 220606](https://github.com/user-attachments/assets/d09a2570-b868-4db4-913d-b468b6ea515e)
-
+![Screenshot 2025-06-19 221508](https://github.com/user-attachments/assets/a19f9bfa-5ec5-4050-89ea-cd49e17845e3)
 
